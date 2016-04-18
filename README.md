@@ -1,38 +1,18 @@
-# Kasper
+# Dushyant Agarwal (dagarwal.com)
 
-This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
+You are free to use any code snippet or content or anything shared in my blog posts. However I would be glad if you provide some back links to the original post. 
 
-## How to use it
+Contact me in case ...
 
-Simply clone this repository, and then run `jekyll serve` inside the directory.
+* Site: [dagarwal.com](http://dagarwal.com/)
+* Twitter: [@adusht](https://twitter.com/adusht)
+* Facebook: [facebook.com/adusht](https://www.facebook.com/adusht)
+* LinkedIn: [in.linkedin.com/in/dusht](https://in.linkedin.com/in/dusht)
 
-Kasper theme includes:
+I have used this awesome [Jekyll theme](https://github.com/rosario/kasper). 
 
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
+Have a nice day! :-)
 
-## Screenshots
+## License
 
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
-
-
-## Thanks 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
-
-## Copyright & License
-
-Copyright (C) 2013 Ghost Foundation - Released under the MIT License.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+No License for blog post content. Do whatever you want!
