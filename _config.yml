@@ -8,7 +8,7 @@ logo: true
 paginate: 15
 baseurl: /
 domain_name: 'http://dagarwal.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-56421152-3'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
