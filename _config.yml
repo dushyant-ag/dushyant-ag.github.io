@@ -3,7 +3,7 @@ description: Blogging about stuffs
 meta_description: "Ruby on Rails, Blogging about stuffs"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: true
 paginate: 15
 baseurl: /
