@@ -2,13 +2,16 @@
 layout: page
 title: 
 ---
-<figure class="author-image">
+<figure class="author-image" style="top:0px">
       <a class="img" href="{{ site.baseurl }}" style="background-image: url(/assets/images/profile.jpg)">
              <span class="hidden">{{site.author}}'s Picture</span></a>
 </figure>
 <br>
 <br>
-<p>Encourage Creativity, Ideas and Simplicity. Wildlife Enthusiast. Web Design & Development.
+<h4 class="center">Dushyant Agarwal</h4>
+<h5 class="center">Sr. Software Engineer</h5>
+<p class="center">Ruby on Rails</p>
+<p>Creativity, Ideas and Simplicity is what I am passionate about.
 
 Having good understanding of various web technologies, I have worked on several projects in Management domain which includes overall designing, developing and support. Moving forward with the projects, I have gained knowledge on various ways of software development, project architecture, database development and source code management systems. 
 </p>
