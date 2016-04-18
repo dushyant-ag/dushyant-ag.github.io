@@ -20,15 +20,15 @@ By the time I get used to Ruby Mine, one thing always tickles me is the time it 
 
 **Sublime:** Awesome experience all together! Everything was so smooth and I felt like this is going to be my all-time buddy. I do miss lot of Ruby Mine features here, but not to worry, they all become secondary over the speed and simplicity Sublime provided me. 
 
-<p>Now as a full stack developer, I got myself editing some config file on remote server. That was the first time I get to know about Vi. The mighty VI! At first I was like WT*, how to edit the file. I thought some thing happened to my system. I rebooted my system and try to edit the file again. Again the same thing!! Huhh! </p>
+Now as a full stack developer, I got myself editing some config file on remote server. That was the first time I get to know about Vi. The mighty VI! At first I was like WT*, how to edit the file. I thought some thing happened to my system. I rebooted my system and try to edit the file again. Again the same thing!! Huhh! 
 
-<p>I quickly googled and a moment of silence! <b>An Editor: For Programmers By Programmers!</b> Interesting! Anyway I somehow managed to edit the file and back again on my buddy Sublime. </p>
+I quickly googled and a moment of silence! **An Editor: For Programmers By Programmers!** Interesting! Anyway I somehow managed to edit the file and back again on my buddy Sublime. 
 
 Although I keep myself updated on industry news, but I never knew that developers use Vim as their complete development environment until [Upcase][upcase] (A subscription based web app for learning ruby on rails by ThoughtBots) happened to me.
 
-<p>This is the first time I installed Vim (because by default we have minified Vi on Linux) on my system and tried all over on weekend. At first it was very challenging, because its totally different from all the editors I had ever tried. It works on commands and it gives full screen to edit the file and its blazing fast!! And this is what my requirement of an editor in first place and this is what encouraged me to not going back. </p>
+This is the first time I installed Vim (because by default we have minified Vi on Linux) on my system and tried all over on weekend. At first it was very challenging, because its totally different from all the editors I had ever tried. It works on commands and it gives full screen to edit the file and its blazing fast!! And this is what my requirement of an editor in first place and this is what encouraged me to not going back. 
 
-<p>And the journey to `Vim` began! </p>
+And the journey to `Vim` began!
 
 
 [vim-wiki]: https://en.wikipedia.org/wiki/Vim_(text_editor)
