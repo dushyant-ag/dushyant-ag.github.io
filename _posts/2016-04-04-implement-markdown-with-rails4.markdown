@@ -2,6 +2,7 @@
 layout: post
 title:  "Implement Markdown with Rails4 app"
 date:   2016-04-04 10:18:00
+comments: true
 categories: rails4 markdown coderay
 ---
 

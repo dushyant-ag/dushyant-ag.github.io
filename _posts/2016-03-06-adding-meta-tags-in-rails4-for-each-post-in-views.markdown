@@ -2,6 +2,7 @@
 layout: post
 title:  "Adding meta tags in Rails 4 app for each post in Views"
 date:   2016-03-06 10:18:00
+comments: true
 categories: rails4 meta-tags
 ---
 

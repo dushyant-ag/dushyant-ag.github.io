@@ -2,6 +2,7 @@
 layout: post
 title:  "Journey to Vim"
 date:   2016-02-03 10:18:00
+comments: true
 categories: vim vi
 ---
 
