@@ -683,7 +683,6 @@ margin on the iframe, cause it breaks stuff. */
     min-height: 160px;
     max-height: 40%;
     background: #f5f8fa;
-    background-image: url(/assets/images/profile.jpg)
 }
 
 .no-cover .page-title {
@@ -842,6 +841,18 @@ body:not(.post-template) .post-title {
     line-height: 1.5em;
 }
 
+.center {
+    text-align: center;
+}
+
+.social-media-icons {
+    text-align: center;
+}
+.social-media-icons li {
+    display: inline-block;
+    padding: 10px;
+}
+
 
 /* ==========================================================================
    5. Single Post - When you click on an individual post
@@ -959,7 +970,7 @@ body:not(.post-template) .post-title {
     position: absolute;
     top: 6rem;
     right: 0;
-    width: 140px;
+    width: 160px;
 }
 
 .post-footer .share a {
@@ -1198,6 +1209,12 @@ body:not(.post-template) .post-title {
     min-width: 25px;
     font-size: 1.1rem;
 }
+
+.fa-facebook-square{color:#3C599F;}
+.fa-github-square{color:#070709;} 
+.fa-linkedin-square{color:#0085AE;}
+.fa-twitter-square{color:#32CCFE;}
+.fa-google-plus-square{color:#CF3D2E;} 
 
 
 /* ==========================================================================
