@@ -3,6 +3,8 @@ layout: post
 title:  "Journey to Vim"
 date:   2016-02-03 10:18:00
 comments: true
+desc: "How I started my journey on VIM editor and I am loving every piece of it."
+keywords: journey to vim, how someone started on vim
 categories: vim vi
 ---
 
