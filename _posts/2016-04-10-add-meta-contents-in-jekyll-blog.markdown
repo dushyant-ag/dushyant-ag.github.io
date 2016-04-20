@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Add meta contents in Jekyll blog"
-date:   2016-04-04 10:18:00
+date:   2016-04-10 10:18:00
 comments: true
 desc: "Add SEO meta contents in Jekyll blog"
 keywords: jekyll, meta-tags, seo
@@ -20,6 +20,8 @@ Alright, now we have basic understanding, lets dive right into the implementatio
 In this post, I will be using basic elements of meta contents i.e. `title` `description` and `keywords`. You can add more as you wish. (For ref: Here is a [guide](https://gist.github.com/kevinSuttle/1997924) to all meta tags available.)
 
 For `<title>` we’ll get the value from a Front Matter variable if it is there or else we will use the default:
+
+**Note:** I have changed `{ % % }` to `% %` and `{ { variable} }` to `{ variable }`. Otherwise it will render the respective values.
 
 {% highlight ruby %}
 <title>

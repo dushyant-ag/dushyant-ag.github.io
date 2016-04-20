@@ -80,7 +80,7 @@ Now in Views for post , we write content for `<head>` as follows:
 
 where `display_meta_tags` is meta-tags gem's method to display meta tags. 
 
-Voila! We just implemented our blogging site with dynamic meta-tags loading. Feel free to write your doubts/feedback/suggestions in comments.
+Voila! We just implemented our blogging site with dynamic meta-tags loading. 
 
 [gem-link]: https://github.com/kpumuk/meta-tags
 [doc-link]: https://github.com/kpumuk/meta-tags
