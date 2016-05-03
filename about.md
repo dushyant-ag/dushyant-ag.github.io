@@ -19,11 +19,6 @@ Having good understanding of various web technologies, I have worked on several 
 
 <ul class="social-media-icons">
   <li>
-    <a href="https://twitter.com/adusht">
-      <i class="fa fa-twitter-square fa-3x" aria-hidden="true"></i>
-    </a>
-  </li>
-  <li>
     <a href="https://www.facebook.com/adusht">
       <i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i>
     </a>
