@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Add meta contents in Jekyll blog"
-date:   2016-04-10 10:18:00
+date:   2016-07-10 10:18:00
 comments: true
 desc: "Add SEO meta contents in Jekyll blog"
 keywords: jekyll, meta-tags, seo

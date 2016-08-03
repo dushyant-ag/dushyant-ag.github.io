@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Implement Markdown with Rails4 app"
-date:   2016-04-04 10:18:00
+date:   2016-06-25 10:18:00
 comments: true
 desc: "How to Implement Markdown within Rails 4 app"
 keywords: rails4, coderay, syntax highlighting, markdown

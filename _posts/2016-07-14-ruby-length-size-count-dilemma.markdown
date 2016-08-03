@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ruby Length Size Count Dilemma"
-date:   2016-04-12 10:18:00
+date:   2016-07-14 10:18:00
 comments: true
 desc: "When to use ruby Length Size Count and how it varies in active record"
 keywords: ruby, length, size, count, rails, active record

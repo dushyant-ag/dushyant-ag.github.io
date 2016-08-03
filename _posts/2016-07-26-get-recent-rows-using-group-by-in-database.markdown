@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Query to get recent rows in each group in relational database"
-date:   2016-04-12 10:18:00
+date:   2016-07-26 10:18:00
 comments: true
 desc: "Query to get recent rows in each group in relational database like mysql, postgres etc."
 keywords: ruby, rails, mysql, postgres, groupby, query

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding meta tags in Rails 4 app for each post in Views"
-date:   2016-03-06 10:18:00
+date:   2016-07-03 10:18:00
 comments: true
 desc: "How to add meta-content into rails 4 app, which will render meta content with respect to each blog post. "
 keywords: meta-tags, rails4, seo
