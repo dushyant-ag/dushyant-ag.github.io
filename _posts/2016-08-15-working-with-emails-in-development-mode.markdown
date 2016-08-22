@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Working with emails in development mode"
-date:   2016-08-08 10:18:00
+date:   2016-08-15 10:18:00
 comments: true
 desc: "How to work with emails in development mode in rails"
 keywords: rails, emails, development, mailcatcher
