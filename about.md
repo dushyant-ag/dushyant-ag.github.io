@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 
+title: About
 ---
+
 <figure class="author-image" style="top:0px">
       <a class="img" href="{{ site.baseurl }}" style="background-image: url(/assets/images/profile.jpg)">
              <span class="hidden">{{site.author}}'s Picture</span></a>

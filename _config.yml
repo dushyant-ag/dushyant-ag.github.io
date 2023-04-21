@@ -1,16 +1,28 @@
-name: Dushyant Agarwal
-description: Blogging about stuffs
-meta_description: "Ruby on Rails, Blogging about stuffs"
+title: Dushyant Agarwal Tech Blog! # name of the site
+author: Dushyant Agarwal
+email: dushyant133@gmail.com # email of site's author
+url: http://dagarwal.com
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  Tech blog
 
-markdown: kramdown
-highlighter: rouge
-logo: true
-paginate: 15
-baseurl: /
-domain_name: 'http://dagarwal.com'
 google_analytics: 'UA-56421152-3'
-gems: [jekyll-paginate]
+permalink: /:slug.html
 
-# Details for the RSS feed generator
-url:            'http://dagarwal.com'
-author:         'Dushyant'
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

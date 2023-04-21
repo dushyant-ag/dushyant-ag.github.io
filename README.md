@@ -9,7 +9,7 @@ Contact me in case ...
 * Facebook: [facebook.com/adusht](https://www.facebook.com/adusht)
 * LinkedIn: [in.linkedin.com/in/dusht](https://in.linkedin.com/in/dusht)
 
-I have used this awesome [Jekyll theme](https://github.com/rosario/kasper). 
+I have used this awesome [Jekyll theme](https://github.com/riggraz/no-style-please). 
 
 Have a nice day! :-)
 
