@@ -5,7 +5,7 @@ date:   2016-07-26 10:18:00
 comments: true
 desc: "Query to get recent rows in each group in relational database like mysql, postgres etc."
 keywords: ruby, rails, mysql, postgres, groupby, query
-categories: database
+category: database
 ---
 
 There has been many times, when we want to show the latest rows from table group by different user or by company etc. 

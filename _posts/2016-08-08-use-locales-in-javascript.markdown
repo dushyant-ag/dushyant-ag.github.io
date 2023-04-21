@@ -5,7 +5,7 @@ date:   2016-08-08 10:18:00
 comments: true
 desc: "How to use rails locales in javascript"
 keywords: rails, locales, javascript
-categories: rails javascipt
+category: rails
 ---
 
 In this blog, I will explain how to use locales (like en.yml or nl.yml etc) in your javascript code. We will be using this awesome gem called [i18n-js][gem_link]

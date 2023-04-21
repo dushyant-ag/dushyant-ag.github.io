@@ -5,7 +5,7 @@ date:   2016-08-21 10:18:00
 comments: true
 desc: "How to include images in email templates including devise in rails"
 keywords: rails, emails, assets, devise
-categories: rails email_design
+category: rails
 ---
 
 In this blog we will see how to include images in our email templates in rails application. There would be two parts to this:

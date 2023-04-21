@@ -5,7 +5,7 @@ date:   2016-07-03 10:18:00
 comments: true
 desc: "How to add meta-content into rails 4 app, which will render meta content with respect to each blog post. "
 keywords: meta-tags, rails4, seo
-categories: rails4 meta-tags
+category: rails
 ---
 
 In this blog post, we will learn how to add meta-content into our rails 4 app, which will render meta content with respect to each blog post. 

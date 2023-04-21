@@ -5,7 +5,7 @@ date:   2016-06-03 10:18:00
 comments: true
 desc: "How I started my journey on VIM editor and I am loving every piece of it."
 keywords: journey to vim, how someone started on vim
-categories: vim vi
+category: vi
 ---
 
 Vim (a contraction of `Vi IMproved`) is a clone of Bill Joy's vi editor for `Unix`. It was written by Bram Moolenaar based on source for a port of the Stevie editor to the Amiga and first released publicly in 1991. Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. as per [Wiki][vim-wiki]

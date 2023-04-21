@@ -5,7 +5,7 @@ date:   2016-08-15 10:18:00
 comments: true
 desc: "How to work with emails in development mode in rails"
 keywords: rails, emails, development, mailcatcher
-categories: rails mailcatcher
+category: rails
 ---
 
 In this blog we will see how to work with emails in development mode!

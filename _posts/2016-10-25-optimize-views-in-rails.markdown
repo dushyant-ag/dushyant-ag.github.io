@@ -5,7 +5,7 @@ date:   2016-10-25 10:18:00
 comments: true
 desc: "How to optimize views in rails by removing multiple queries which creates N+1 query problem"
 keywords: rails5, optimization, nplus1
-categories: rails optimization
+category: rails
 ---
 
 In this blog we will see how to optimize our rails views by removing multiple queries.

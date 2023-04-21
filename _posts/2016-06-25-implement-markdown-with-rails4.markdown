@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Implement Markdown with Rails4 app"
-date:   2016-06-25 10:18:00
-comments: true
 desc: "How to Implement Markdown within Rails 4 app"
 keywords: rails4, coderay, syntax highlighting, markdown
-categories: rails4 markdown
+category: rails
 ---
 
 Markdown is popular tool to convert text to HTML. 

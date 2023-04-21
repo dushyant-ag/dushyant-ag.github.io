@@ -5,7 +5,7 @@ date:   2016-08-01 10:18:00
 comments: true
 desc: "How to implement polymorphic associations in rails 4."
 keywords: polymorphic, rails, rails4, associations
-categories: rails associations
+category: rails
 ---
 
 **Polymorphism:** As per [Wiki][poly-wiki], it is the provision of a single interface to entities of different types.

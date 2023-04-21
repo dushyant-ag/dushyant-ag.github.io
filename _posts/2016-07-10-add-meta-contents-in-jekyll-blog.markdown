@@ -5,7 +5,7 @@ date:   2016-07-10 10:18:00
 comments: true
 desc: "Add SEO meta contents in Jekyll blog"
 keywords: jekyll, meta-tags, seo
-categories: jekyll meta-tags
+category: jekyll
 ---
 
 In this blog post, we will learn how to add meta content into our Jekyll blog, which will render meta content with respect to each blog post. Awesome, insn't it! 

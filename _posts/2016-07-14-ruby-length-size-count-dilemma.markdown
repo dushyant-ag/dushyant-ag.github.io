@@ -5,7 +5,7 @@ date:   2016-07-14 10:18:00
 comments: true
 desc: "When to use ruby Length Size Count and how it varies in active record"
 keywords: ruby, length, size, count, rails, active record
-categories: ruby active-record
+category: ruby
 ---
 
 There has been many times when we have multiple options to achieve something. One of them is using ruby's length, count and size. Which one to use when ? 

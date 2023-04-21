@@ -5,7 +5,7 @@ date:   2016-08-03 10:18:00
 comments: true
 desc: "How to download and setup heroku database backup locally"
 keywords: heroku, backup, postgres
-categories: heroku backups
+category: infra
 ---
 
 Here are the steps to download and setup the database locally:
