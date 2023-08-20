@@ -32,6 +32,13 @@ body {
   min-height: 100%;
   overflow-wrap: break-word;
 }
+.circular--portrait { position: relative; width: 100px; height: auto; overflow: hidden; border-radius: 50%; }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 .post-meta { text-align: right; }
 

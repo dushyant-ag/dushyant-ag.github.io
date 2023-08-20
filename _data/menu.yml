@@ -4,34 +4,53 @@
 entries:
   - title: info
     entries:
-      - title: encourage Creativity, Ideas and Simplicity.
       - title: github
-        url: https://github.com/dusht
+        url: https://github.com/dushyant-ag
+      - title: linkedin
+        url: https://www.linkedin.com/in/dushyant-agarwal
       - title: About
         url: about
 
   - title: all posts
     post_list:
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: vi
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+  - title: quick bites
+    entries:
+      - title: rails
+        post_list:
+          category: rails
+          limit: 2
+          show_more: true
+          show_more_text: more bites...
+          show_more_url: example2-archive.html
+      - title: vim
+        post_list:
+          category: vi
+          limit: 2
+          show_more: true
+          show_more_text: more bites...
+          show_more_url: example2-archive.html
 
-  - title: rss
-    url: feed.xml
+  # - title: posts with categories
+  #   post_list:
+  #     category: rails
+  #     limit: 2
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+  # - title: rss
+  #   url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
