@@ -15,7 +15,7 @@ entries:
     post_list:
       limit: 3
       show_more: true
-      show_more_text: See archive...
+      show_more_text: more...
       show_more_url: archive.html
 
   - title: quick bites
@@ -25,14 +25,14 @@ entries:
           category: rails
           limit: 2
           show_more: true
-          show_more_text: more bites...
+          show_more_text: more...
           show_more_url: example2-archive.html
       - title: vim
         post_list:
           category: vi
           limit: 2
           show_more: true
-          show_more_text: more bites...
+          show_more_text: more...
           show_more_url: example2-archive.html
 
   # - title: posts with categories
