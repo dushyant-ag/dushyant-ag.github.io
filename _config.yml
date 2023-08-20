@@ -6,16 +6,6 @@ baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're sit
 description: > # description of the site (multiple lines allowed)
   Tech blog
 
-lsi: false
-safe: true
-# incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-google_analytics: 'UA-56421152-3'
 permalink: /:slug.html
 
 favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
@@ -27,7 +17,11 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home page
+  show_description: false # show blog description in home page
 
 sass:
   style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
