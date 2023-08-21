@@ -20,9 +20,9 @@ entries:
 
   - title: quick bites
     entries:
-      - title: rails
+      - title: javascript
         post_list:
-          category: rails
+          category: js
           limit: 2
           show_more: true
           show_more_text: more...
