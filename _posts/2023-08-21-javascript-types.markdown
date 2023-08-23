@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Understanding types in javascript"
-date:   2016-08-08 10:18:00
+date:   2023-08-22 10:18:00
 comments: true
 desc: "Javascript data types primitive and non-primitive"
 keywords: js, javascript, types
@@ -28,3 +28,8 @@ In the simplest terms, these are types that are not objects or collections. Ther
 
 - `object`
 
+
+## Notes
+In case of primitive types - if defined variable `a` and have memory `0x001`. when you assign `b = a` it creates new memory 
+
+non-primitive types - it uses same memory. however if used `=` operator with new value it sets up new memory.
